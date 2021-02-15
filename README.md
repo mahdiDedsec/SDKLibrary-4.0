@@ -12,20 +12,20 @@ SDKLibrary is a set of libraries and includes new features for developing apps m
 * Useful data types tools
 </br>
 
+
+## Release history
+
+Date | Version | Developer
+------------ | ------------- | -------------
+Oct 23, 2021  | 4.0 Beta | mahdiDedsec
+
 ## Run
 ```
 The project write in Intellij idea, the artifact has already been built. </br>
 Build the prohject and get jar file in folder.
 ```
 
-## Release history
 
+![ERROR](/shots/img1.png) <br/>
 
-Date | Version | Developer
------------- | ------------- | -------------
-Oct 23, 2021  | 4.0 Beta | mahdiDedsec
-
-
-![GitHub Logo](/shots/img1.png) <br/>
-
-![GitHub Logo](/shots/img2.png) <br/>
+![ERROR](/shots/img2.png) <br/>
