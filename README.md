@@ -17,7 +17,7 @@ SDKLibrary is a set of libraries and includes new features for developing apps m
 
 Date | Version | Developer
 ------------ | ------------- | -------------
-Oct 23, 2021  | 4.0 Beta | mahdiDedsec
+Feb 15, 2021  | 4.0 Beta | mahdiDedsec
 
 ## Run
 
