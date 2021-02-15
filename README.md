@@ -11,7 +11,6 @@ SDKLibrary is a set of libraries and includes new features for developing apps m
 * Manage (Text files, Archive zip files, Image files, Audio files, ...) easily
 * Useful data types tools
 </br>
-</br>
 
 ## Run
 ```
