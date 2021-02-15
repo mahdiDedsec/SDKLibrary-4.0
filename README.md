@@ -23,7 +23,11 @@ Oct 23, 2021  | 4.0 Beta | mahdiDedsec
 ```
 The project write in Intellij idea, the artifact has already been built. </br>
 Build the prohject and get jar file in folder.
+Minimum JDK version **+11**
 ```
+</br>
+
+My email address **mahdiDedsec@gmail.com**
 
 
 ![ERROR](/shots/img1.png) <br/>
