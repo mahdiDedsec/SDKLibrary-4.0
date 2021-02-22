@@ -18,6 +18,7 @@ Date | Version | Developer
 ------------ | ------------- | -------------
 Feb 15, 2021  | 4.0 Beta | mahdiDedsec
 Feb 18, 2021 | 4.1.11 | mahdiDedsec
+Feb 22, 2021 | 4.2.25 | mahdiDedsec
 
 
 ## New Features (bug-fix)
@@ -27,6 +28,11 @@ Feb 18, 2021 | 4.1.11 | mahdiDedsec
 * You can now connect remote to any Sql Server database directly
 * Some bug fixes 
 * New triangle names in Console class
+* Network tools are now available
+* Change in DirectorySystem methods
+* Support Xml and Json files
+* New compiler method 
+* More bug fixes
 
 ## Run
 
