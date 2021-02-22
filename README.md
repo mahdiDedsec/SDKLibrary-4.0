@@ -26,7 +26,6 @@ Feb 22, 2021 | 4.2.25 | mahdiDedsec
 * New remove method for generic lists
 * Implement Iterator over lists
 * You can now connect remote to any Sql Server database directly
-* Some bug fixes 
 * New triangle names in Console class
 * Network tools are now available
 * Change in DirectorySystem methods
