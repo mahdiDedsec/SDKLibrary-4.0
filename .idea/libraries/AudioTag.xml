@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AudioTag">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/AudioTag.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
