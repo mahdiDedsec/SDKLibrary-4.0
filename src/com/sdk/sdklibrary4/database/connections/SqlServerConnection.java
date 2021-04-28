@@ -78,24 +78,3 @@ public class SqlServerConnection {
         return connection;
     }
 }
-
-
-/*
-      String host = "164.138.17.194";
-        String instanceName = "DESKTOP-KO506RH";
-        int port = 1433;
-        String databaseName = "ziteb_life_Db";
-        String username = "zitebuser";
-        String password = "?Mnl1347*?";
-
-        Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-        DriverManager.registerDriver(new com.microsoft.sqlserver.jdbc.SQLServerDriver());
-        String url ="jdbc:sqlserver://" + host + "\\" + instanceName + ":" + port + ";database="+databaseName;
-
-
-        Connection connection = DriverManager.getConnection(url, username, password);
-
-        if (!Objects.isNull(connection)) {
-            System.out.println("connected");
-        }
- */
